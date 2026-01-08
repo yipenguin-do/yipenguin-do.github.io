@@ -1,0 +1,161 @@
+* {
+    text-decoration: none;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+span {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+a {
+    color: black;
+    margin: 0;
+}
+
+.header {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.head-logo {
+    font-size: 30px;
+    font-weight: normal;
+    padding: 20px;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+:root {
+    --calenderSize: 150px;
+    --calenderFontSize: 13px;
+}
+
+.calenderSection {
+    padding: 10px 0;
+}
+
+div.calendarTitle h1.title {
+    font-size: 25px;
+    font-family: "BIZ UDMincho", serif;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.week {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+div.calenderDay {
+    width: 170px;
+    height: var(--calenderSize);
+    border: 1px solid rgb(207, 207, 207);
+}
+
+div.day {
+    border-radius: 10px 10px 0 0;
+    padding: 5px 5px 0px 5px;
+    font-size: 20px;
+}
+
+div.schedule {
+    padding: 10px 0 0 0;
+    border-radius: 0 0 10px 10px;
+    display: grid;
+    row-gap: 2px;
+}
+
+div.scheduleExplain {
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    /* width: 10px; */
+    border-radius: 5px;
+    font-size: 10px;
+    gap: 10px;
+    padding-left: 2px;
+    line-height: 15px;
+    color: rgb(255, 255, 255);
+}
+
+
+.calendar {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+  }
+  .calendar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .calendar-weekdays, .calendar-days {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+  }
+  .calendar-days div {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .calendarHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 600px;         /* 任意。カレンダーの幅に合わせて調整 */
+    margin: 20px auto;        /* 上下に余白・中央寄せ */
+    padding: 0 20px;          /* 左右に少し余白 */
+    font-family: "BIZ UDMincho", serif;
+
+  }
+  
+  .calendarHeader h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    text-align: center;
+    flex: 1;
+  }
+  
+  .calendarHeader button {
+    background-color: #365b6d;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .calendarHeader button:hover {
+    background-color: #265b6d;
+  }
+  
+.scheduleExplain a {
+    display: block;
+}
+
+.footer-right {
+    font-family: "Josefin Sans", sans-serif;
+
+    margin: auto;
+    text-align: center;
+    padding: 0px 0px 50px 0px;
+}
