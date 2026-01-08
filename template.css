@@ -12,6 +12,7 @@ body {
     text-decoration: none;
     font-family: "Roboto", sans-serif;
     font-family: "Noto Sans JP", sans-serif;
+    background-color: #f2f1ec;
 }
 
 span {
@@ -35,8 +36,19 @@ a {
 .head-logo {
     font-size: 30px;
     font-weight: normal;
-    padding: 20px;
+    padding: 10px;
     font-family: "Josefin Sans", sans-serif;
+}
+
+div.titleExplain {
+    margin: auto;
+    text-align: center;
+}
+
+p.explainText {
+    font-size: 15px;
+    font-family: "BIZ UDMincho", serif;
+    color: rgb(116, 116, 116);
 }
 
 :root {
@@ -53,7 +65,7 @@ div.calendarTitle h1.title {
     font-family: "BIZ UDMincho", serif;
     align-items: center;
     text-align: center;
-    padding-bottom: 20px;
+    padding: 20px 0px;
 }
 
 .week {
@@ -140,7 +152,7 @@ div.scheduleExplain {
     border: none;
     padding: 6px 12px;
     border-radius: 4px;
-    font-size: 1rem;
+    font-size: 13px;
     cursor: pointer;
   }
   

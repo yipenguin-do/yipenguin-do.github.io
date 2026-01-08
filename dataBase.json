@@ -3,14 +3,14 @@
       "8": [
         {
           "title": "国際交流宿舎締切",
-          "color": "#2a9d8f",
+          "color": "#365b6d",
           "url": "#"
         }
       ],
       "9": [
         {
           "title": "海外安全対策セミナー",
-          "color": "#2a9d8f",
+          "color": "#a8dadc",
           "url": "#"
         },
         {
@@ -22,62 +22,46 @@
       "14": [
         {
           "title": "JASSO奨学金継続の締切",
-          "color": "#2a9d8f",
+          "color": "#ffb4a2",
           "url": "https://www.jasso.go.jp/shogakukin/saiyochu/taiyo/keizoku_negai.html"
         },
         {
           "title": "海外安全対策セミナー",
-          "color": "#2a9d8f",
-          "url": "https://www.jasso.go.jp/shogakukin/saiyochu/taiyo/keizoku_negai.html"
+          "color": "#a8dadc",
+          "url": "]"
         }
       ],
       "19": [
         {
           "title": "Goethe 3月試験割引申請締切",
           "color": "#2a9d8f",
-          "url": "https://www.jasso.go.jp/shogakukin/saiyochu/taiyo/keizoku_negai.html"
+          "url": "#"
         }
       ],
       "20": [
         {
           "title": "後期授業アンケート締切",
-          "color": "#2a9d8f",
+          "color": "#B5DFBA",
           "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
         }
       ],
       "21": [
         {
           "title": "定期試験期間開始",
-          "color": "#2a9d8f",
+          "color": "#a8dadc",
           "url": "#"
         }
       ],
       "28": [
         {
-          "title": "定期試験期間締切",
-          "color": "#2a9d8f",
+          "title": "定期試験期間終了",
+          "color": "#a8dadc",
           "url": "#"
         },
         {
           "title": "【経済学部】(~15:00)TOEIC IPテスト受験締切",
           "color": "#2a9d8f",
           "url": "#"
-        }
-      ]
-    },
-    "2025-10": {
-      "3": [
-        {
-          "title": "合宿説明会",
-          "color": "#a8dadc",
-          "url": "https://"
-        }
-      ],
-      "10": [
-        {
-          "title": "文化祭準備",
-          "color": "#ffb4a2",
-          "url": "https://"
         }
       ]
     }
