@@ -9,7 +9,9 @@ data.json ... イベント情報を格納
 イベント情報の色分け
 #a8dadc
 #ffb4a2
+#ff9277
 #2a9d8f
+#44be89
 #365b6d
 #6c9286
 #B5DFBA

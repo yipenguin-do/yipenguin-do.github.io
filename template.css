@@ -99,11 +99,11 @@ div.scheduleExplain {
     justify-content: center;
     align-items: center;
     height: fit-content;
-    /* width: 10px; */
+    width: auto;
     border-radius: 5px;
     font-size: 10px;
     gap: 10px;
-    padding-left: 2px;
+    padding: 0px 2px;
     line-height: 15px;
     color: rgb(255, 255, 255);
 }
