@@ -164,6 +164,34 @@ div.scheduleExplain {
     display: block;
 }
 
+section.snsSection {
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+
+div.sns {
+    padding: 20px 7px 30px 7px;
+}
+
+i.sns-icon {
+    font-size: 30px;
+}
+
+div.img-wrap {
+    width: 35px;
+    height: 35px;
+    overflow: hidden;
+}
+
+img.snsImage {
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+    border-radius: 15%;
+    border: #000 solid 1px;    
+}
+
 .footer-right {
     font-family: "Josefin Sans", sans-serif;
 
