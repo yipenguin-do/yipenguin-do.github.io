@@ -1,101 +1,101 @@
 {
     "2026-01": {
-      "8": [
-        {
-          "title": "国際交流宿舎締切",
-          "color": "#365b6d",
-          "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
-        }
-      ],
-      "9": [
-        {
-          "title": "海外安全対策セミナー",
-          "color": "#a8dadc",
-          "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
-        },
-        {
-          "title": "2026年秋ドイツ語圏交換留学説明会",
-          "color": "#2a9d8f",
-          "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
-        }
-      ],
-      "14": [
-        {
-          "title": "JASSO奨学金継続の締切",
-          "color": "#ffb4a2",
-          "url": "https://www.jasso.go.jp/shogakukin/saiyochu/taiyo/keizoku_negai.html"
-        },
-        {
-          "title": "海外安全対策セミナー",
-          "color": "#a8dadc",
-          "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
-        }
-      ],
-      "19": [
-        {
-          "title": "Goethe 3月試験割引申請締切",
-          "color": "#2a9d8f",
-          "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
-        }
-      ],
-      "20": [
-        {
-          "title": "後期授業アンケート締切",
-          "color": "#B5DFBA",
-          "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
-        }
-      ],
-      "21": [
-        {
-          "title": "定期試験期間開始",
-          "color": "#a8dadc",
-          "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2025.html"
-        }
-      ],
-      "28": [
-        {
-          "title": "定期試験期間終了",
-          "color": "#a8dadc",
-          "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2025.html"
-        },
-        {
-          "title": "(経済学部)\n(~15:00)\nTOEICテスト受験締切",
-          "color": "#2a9d8f",
-          "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
-        }
-      ]
+        "8": [
+            {
+                "title": "国際交流宿舎締切",
+                "color": "#6ea9e1",
+                "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
+            }
+        ],
+        "9": [
+            {
+                "title": "海外安全対策セミナー",
+                "color": "#6ea9e1",
+                "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
+            },
+            {
+                "title": "2026年秋ドイツ語圏交換留学説明会",
+                "color": "#2a9d8f",
+                "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
+            }
+        ],
+        "14": [
+            {
+                "title": "JASSO奨学金継続の締切",
+                "color": "#d7502e",
+                "url": "https://www.jasso.go.jp/shogakukin/saiyochu/taiyo/keizoku_negai.html"
+            },
+            {
+                "title": "海外安全対策セミナー",
+                "color": "#6ea9e1",
+                "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
+            }
+        ],
+        "19": [
+            {
+                "title": "Goethe 3月試験割引申請締切",
+                "color": "#2a9d8f",
+                "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
+            }
+        ],
+        "20": [
+            {
+                "title": "後期授業アンケート締切",
+                "color": "#365b6d",
+                "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
+            }
+        ],
+        "21": [
+            {
+                "title": "定期試験期間開始",
+                "color": "#77c080",
+                "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2025.html"
+            }
+        ],
+        "28": [
+            {
+                "title": "定期試験期間終了",
+                "color": "#77c080",
+                "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2025.html"
+            },
+            {
+                "title": "(経済学部)\n(~15:00)\nTOEICテスト受験締切",
+                "color": "#527eb5",
+                "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
+            }
+        ]
     },
     "2026-03": {
         "20": [
             {
                 "title": "卒業式・学位記授与式",
-                "color": "#44be89",
+                "color": "#8657d7",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ],
         "24": [
             {
                 "title": "プレイスメントテスト",
-                "color": "#44be89",
+                "color": "#ff9b90",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ],
         "25": [
             {
                 "title": "プレイスメントテスト",
-                "color": "#44be89",
+                "color": "#ff9b90",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ],
         "27": [
             {
                 "title": "オリエンテーション開始",
-                "color": "#44be89",
+                "color": "#ff9b90",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             },
             {
                 "title": "履修登録･相談･確認･訂正開始",
-                "color": "#44be89",
+                "color": "#353535",
                 "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
             }
         ]
@@ -104,42 +104,42 @@
         "1": [
             {
                 "title": "入学式",
-                "color": "#ff9277",
+                "color": "#ffb2a9",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ],
         "6": [
             {
                 "title": "オリエンテーション終了",
-                "color": "#ff9277",
+                "color": "#ff9b90",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ],
         "9": [
             {
                 "title": "履修登録期間終了",
-                "color": "#ff9277",
+                "color": "#353535",
                 "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
             }
         ],
         "10": [
             {
                 "title": "授業期間開始",
-                "color": "#ff9277",
+                "color": "#365b6d",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ],
         "17": [
             {
                 "title": "履修登録削除期間開始",
-                "color": "#ff9277",
+                "color": "#353535",
                 "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
             }
         ],
         "23": [
             {
                 "title": "履修登録削除期間終了",
-                "color": "#ff9277",
+                "color": "#353535",
                 "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
             }
         ]
@@ -148,21 +148,21 @@
         "23": [
             {
                 "title": "授業期間終了",
-                "color": "#ff9277",
+                "color": "#365b6d",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ],
         "24": [
             {
                 "title": "定期試験期間開始",
-                "color": "#ff9277",
+                "color": "#77c080",
                 "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
             }
         ],
         "30": [
             {
                 "title": "定期試験期間終了",
-                "color": "#ff9277",
+                "color": "#77c080",
                 "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
             }
         ]
@@ -171,7 +171,7 @@
         "2": [
             {
                 "title": "夏季休業期間開始",
-                "color": "#ff9277",
+                "color": "#d97e16",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ]
@@ -180,35 +180,40 @@
         "2": [
             {
                 "title": "卒業判定；合格発表･留年後学修相談",
-                "color": "#ff9277",
+                "color": "#8657d7",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ],
         "7": [
             {
                 "title": "進級判定；合格発表･留年後学修相談",
-                "color": "#ff9277",
+                "color": "#365b6d",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ],
         "12": [
             {
                 "title": "履修登録･相談･確認･訂正開始",
-                "color": "#ff9277",
+                "color": "#353535",
                 "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
             }
         ],
         "20": [
             {
                 "title": "卒業式・学位記授与式",
-                "color": "#ff9277",
+                "color": "#8657d7",
                 "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
             }
         ],
         "23": [
             {
+                "title": "夏季休業期間終了",
+                "color": "#d97e16",
+                "url": "https://www.dokkyo.ac.jp/campuslife/schedule/event2026.html"
+            },
+            {
                 "title": "履修登録期間終了",
-                "color": "#ff9277",
+                "color": "#353535",
                 "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
             }
         ],
@@ -220,5 +225,4 @@
             }
         ]
     }
-  }
-  
+}
