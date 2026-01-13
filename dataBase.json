@@ -1,12 +1,5 @@
 {
     "2026-01": {
-        "8": [
-            {
-                "title": "国際交流宿舎締切",
-                "color": "#6ea9e1",
-                "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
-            }
-        ],
         "9": [
             {
                 "title": "海外安全対策セミナー",
@@ -61,6 +54,13 @@
             {
                 "title": "(経済学部)\n(~15:00)\nTOEICテスト受験締切",
                 "color": "#527eb5",
+                "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
+            }
+        ],
+        "29": [
+            {
+                "title": "国際交流宿舎締切延長",
+                "color": "#6ea9e1",
                 "url": "https://dreams.dokkyo.ac.jp/campusweb/campusportal.do"
             }
         ]
